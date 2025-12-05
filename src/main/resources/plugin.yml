@@ -1,0 +1,5 @@
+name: Elevators
+version: '0.1'
+main: dkt.xeroup.elevators.Elevators
+api-version: '1.21'
+authors: [ xeroup ]

@@ -1,0 +1,12 @@
+settings:
+  max_radius: 20
+
+messages:
+  elevator:
+    up: "<#a6fe6e><bold>UP"
+    down: "<#ff6e6e><bold>DOWN"
+    hint: "Use <#ffb657>SHIFT <white>to down or <#ffb657>SPACE <white>for up"
+
+sounds:
+  up: "minecraft:entity.enderman.teleport"
+  down: "minecraft:entity.enderman.teleport"
